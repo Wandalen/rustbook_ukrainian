@@ -1,3 +1,5 @@
+[![Crowdin](https://badges.crowdin.net/rustukrainian/localized.svg)](https://crowdin.com/project/rustukrainian)
+
 # Мова програмування Rust
 
 Оригінал цієї книжки розміщений на [rust-lang.github.io/book/][html].
@@ -5,7 +7,6 @@
 долучатися.
 
 [html]: http://rust-lang.github.io/book/
-z
 Це наступна ітерація книжки "Мова програмування Rust" ([сирці][src], 
 [текст онлайн][prod]).
 
